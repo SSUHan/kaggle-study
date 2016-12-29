@@ -2,3 +2,4 @@ jupyter/*
 *.zip
 *.csv
 .DS_Store
+*.pickle
