@@ -3,3 +3,4 @@ jupyter/*
 *.csv
 .DS_Store
 *.pickle
+.Bmp
