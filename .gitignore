@@ -6,3 +6,6 @@ jupyter/*
 *.Bmp
 myTrainResized/*
 *.h5
+*.ckpt
+checkpoint
+*.ckpt.meta
